@@ -24,5 +24,5 @@ A data analytics project for tracking and visualizing cryptocurrency metrics suc
 - **Ethereum(ETH)** in its way has the opposite - the **worst** returns - *19%*
 - **Bitcoin** has the smallest standard deviation -*0.02*, Meanwhile **Solana** has the lead again - *0,05*
 
-- 🖼 Preview
+- ## 🖼 Preview
 - ![Alt Text](images/cryptometr.png)
