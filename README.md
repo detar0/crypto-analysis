@@ -20,4 +20,9 @@ A data analytics project for tracking and visualizing cryptocurrency metrics suc
 - **Excel**
 
 ## 📈 Insights
-- **Solana(SOL)** 
+- **Solana(SOL)** has the biggest **Annual** and **Excess** return - *53%*
+- **Ethereum(ETH)** in its way has the opposite - the **worst** returns - *19%*
+- **Bitcoin** has the smallest standard deviation -*0.02*, Meanwhile **Solana** has the lead again - *0,05*
+
+- 🖼 Preview
+- ![Alt Text](images/cryptometr.png)
